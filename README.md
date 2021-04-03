@@ -18,7 +18,6 @@ I'm currently passionate about JAMstack, PWAs, React js, Node js, Angular 7, Nex
 - 🌱 I’m currently learning React Native and Continuous Integration(CircleCI); 
 - 🤔 I’m looking for help with Design Pattern 😭;
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I have a degree in civil engineering;
 - 📫 How to reach me: mailto:yadladinesh1@gmail.com;
 
 
