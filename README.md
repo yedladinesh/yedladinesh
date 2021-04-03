@@ -1,5 +1,26 @@
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Yedla Dinesh</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Yedla Dinesh </h1>
+
+
+<p align="center">I'm a Full Stack Web Developer.
+I'm currently pursuing my Bsc in IT while working on my company and other projects.
+I'm currently passionate about JAMstack, PWAs, React js, Node js, Angular 7, Next js, Laravel 8, S.E.O, Web Performance,Heroku, Cloud Coumputing, Serverless frameword, Solving world problems, World Domination and Automation.
+</p>
+
+<hr>
+<!-- Talking about you -->
+**Talking about Personal Stuffs:**
+
+<!-- Any image aligned to the right. Beware the width -->
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+- 👨🏽‍💻 I’m currently working on React js
+- 🌱 I’m currently learning React Native and Continuous Integration(CircleCI); 
+- 🤔 I’m looking for help with Design Pattern 😭;
+- 💬 Ask me about anything, I am happy to help;
+- ⚡️ Fun-Fact: I have a degree in civil engineering;
+- 📫 How to reach me: mailto:yadladinesh1@gmail.com;
+
 
 &nbsp;
  <p align="center"><br/>
