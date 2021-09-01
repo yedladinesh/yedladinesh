@@ -61,7 +61,7 @@ I'm currently passionate about JAMstack, PWAs, React js, Node js, Angular 7, Nex
 -->
 
 
-![yedladinesh github stats](https://github-readme-stats.vercel.app/api?username=yedladinesh&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=buefy)
+<!-- ![yedladinesh github stats](https://github-readme-stats.vercel.app/api?username=yedladinesh&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=buefy) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yedladinesh&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
