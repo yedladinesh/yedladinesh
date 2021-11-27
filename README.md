@@ -1,13 +1,12 @@
-<div align="left">
+
     <img width="55%" id="banner_image" src="https://www.linkpicture.com/q/ezgif.com-gif-maker-removebg-preview.png" alt="banner_image" float="left" />
-</div>
-<div align="right">
+
     <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Yedla Dinesh </h1>
     <p align="left">I'm a Full Stack Web Developer.
         I've more than 4+ years of experience in IT while working on my company and other projects.
         I'm currently passionate about JAMstack, PWAs, React js, Node js, Angular 7, Next js, Laravel 8, Web Performance,Heroku, Cloud Coumputing, Serverless frameword, Solving world problems, World Domination and Automation.
     </p>
-</div>
+
 <hr>
 <!-- Talking about you -->
 <h2 dir="auto"><a id="user-content-️-about-me" class="anchor" aria-hidden="true" href="#️-about-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
@@ -22,6 +21,7 @@
 - 🤔 I’m looking for help with Design Pattern
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: mailto:yadladinesh1@gmail.com or Skype my <b>skype id</b>: yadla.dinesh
+
 &nbsp;
 ## 🚀 Languages and Tools:
 <p align="left">
