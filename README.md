@@ -3,6 +3,9 @@
 <a href="#"><img width="100%" height="auto" src="https://cdn3.vectorstock.com/i/1000x1000/44/27/programmer-coder-web-developer-or-software-vector-27834427.jpg" height="175px"/></a> -->
 
 
+
+<img id="banner_image" src="https://www.linkpicture.com/q/ezgif.com-gif-maker-removebg-preview.png" alt="banner_image"/>
+    
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Yedla Dinesh </h1>
 
 
@@ -26,6 +29,9 @@ I'm currently passionate about JAMstack, PWAs, React js, Node js, Angular 7, Nex
 - 📫 How to reach me: mailto:yadladinesh1@gmail.com or Skype my <b>skype id</b>:  yadla.dinesh
 
 &nbsp;
+
+<br />
+
 ## 🚀 Languages and Tools:
 <p align="left"> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
