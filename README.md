@@ -27,7 +27,7 @@ I'm currently passionate about JAMstack, PWAs, React js, Node js, Angular 7, Nex
 - 📫 How to reach me: mailto:yadladinesh1@gmail.com or Skype my <b>skype id</b>:  yadla.dinesh
 
 &nbsp;
-<h4>Languages and Tools: </h4>
+## 🚀 Languages and Tools:
 <p align="left"> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/jquery.png" alt=jquery width="40" height="40"/>
@@ -65,7 +65,7 @@ I'm currently passionate about JAMstack, PWAs, React js, Node js, Angular 7, Nex
 </p>
  -->
 
-## Connect with me:
+## ❤  Connect with me:
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/yedladinesh/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
