@@ -1,5 +1,5 @@
 <div align="left">
-    <img width="55%" id="banner_image" src="https://www.linkpicture.com/q/ezgif.com-gif-maker-removebg-preview.png" alt="banner_image" style="float:left;" />
+    <img width="55%" id="banner_image" src="https://www.linkpicture.com/q/ezgif.com-gif-maker-removebg-preview.png" alt="banner_image" float="left" />
 </div>
 <div align="right">
     <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Yedla Dinesh </h1>
