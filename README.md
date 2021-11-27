@@ -1,6 +1,7 @@
 <div align="left">
 <img id="banner_image" src="https://www.linkpicture.com/q/ezgif.com-gif-maker-removebg-preview.png" alt="banner_image" style="float:left;"/>
 	</div>
+	<div align="right">
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Yedla Dinesh </h1>
 
 <p align="left">I'm a Full Stack Web Developer.
@@ -8,7 +9,7 @@ I've more than 4+ years of experience in IT while working on my company and othe
 I'm currently passionate about JAMstack, PWAs, React js, Node js, Angular 7, Next js, Laravel 8, Web Performance,Heroku, Cloud Coumputing, Serverless frameword, Solving world problems, World Domination and Automation.
 </p>
 
-
+</div>
 
 <hr>
 <!-- Talking about you -->
