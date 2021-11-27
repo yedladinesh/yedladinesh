@@ -1,14 +1,10 @@
 
-<foreignObject width="100%" height="100%">
-        <div xmlns="http://www.w3.org/1999/xhtml">
-            <style>
-            #banner_image {
-                float: left;
-            }
+<style>
+#banner_image {
+    float: left;
+}
 
-            </style>
-        </div>
-    </foreignObject>
+</style>
 
 <img id="banner_image" src="https://www.linkpicture.com/q/ezgif.com-gif-maker-removebg-preview.png" alt="banner_image" style="float:left;"/>
 	
