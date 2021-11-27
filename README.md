@@ -1,5 +1,16 @@
 
-<img src="https://www.linkpicture.com/q/ezgif.com-gif-maker-removebg-preview.png" alt="banner_image" style="float:left;"/>
+<foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+            #banner_image {
+                float: left;
+            }
+
+            </style>
+        </div>
+    </foreignObject>
+
+<img id="banner_image" src="https://www.linkpicture.com/q/ezgif.com-gif-maker-removebg-preview.png" alt="banner_image" style="float:left;"/>
 	
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Yedla Dinesh </h1>
 
