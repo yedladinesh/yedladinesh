@@ -11,7 +11,7 @@
 
 <p align="center">
 	I'm a Full Stack Web Developer.
-I've more than 4+ years of experience in IT while working on my company and other projects.
+I've more than 5+ years of experience in IT while working on my company and other projects.
 I'm currently passionate about JAMstack, PWAs, React js, Node js, Angular 7, Next js, Laravel 8, Web Performance,Heroku, Cloud Coumputing, Serverless frameword, Solving world problems, World Domination and Automation.
 </p>
 
