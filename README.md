@@ -27,7 +27,7 @@ I'm currently passionate about JAMstack, PWAs, React js, Node js, Angular 7, Nex
 - 🌱 I’m currently learning React Native and Continuous Integration(CircleCI)
 - 🤔 I’m looking for help with Design Pattern
 - 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: mailto:yadladinesh1@gmail.com or ping me at Skype my <b>skype id</b>:  yadla.dinesh
+- 📫 How to reach me: mailto:yadladinesh1@gmail.com or ping me at </br> Skype my <b>Skype id</b>:  yadla.dinesh
 
 &nbsp;
 
