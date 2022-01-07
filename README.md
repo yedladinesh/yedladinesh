@@ -9,7 +9,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Yedla Dinesh </h1>
 
 
-<p align="center">
+<p align="left">
 	I'm a Full Stack Web Developer.
 I've more than 5+ years of experience in IT while working on my company and other projects.
 I'm currently passionate about JAMstack, PWAs, React js, Node js, Angular 7, Next js, Laravel 8, Web Performance,Heroku, Cloud Coumputing, Serverless frameword, Solving world problems, World Domination and Automation.
